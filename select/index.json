@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "OMW（feat. Benjazzy、G-k.i.d）",
   "base_artist": "BAD HOP",
-  "createdAt": "2026-02-17T23:51:30.514457Z",
+  "createdAt": "2026-03-26T00:14:30.256443Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -11,6 +11,14 @@
       "artist": "BAD HOP",
       "has_synced": false,
       "path": "select/01_OMW_(feat._Benjazzy_&_G-k.i.d)_BAD_HOP.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "OMW (feat. Benjazzy & G-k.i.d)",
+      "artist": "BAD HOP, Benjazzy, G-k.i.d",
+      "has_synced": true,
+      "path": "select/02_OMW_(feat._Benjazzy_&_G-k.i.d)_BAD_HOP,_Benjazzy,_G-k.i.d.lrc"
     },
     {
       "id": "petitlyrics_1",
